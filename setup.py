@@ -25,7 +25,7 @@ setup(
     install_requires=[
         'six',
         'urllib3',
-        'requests==2.5.3',
+        'requests==2.20.0',
         'requests-cache>=0.4.7',
         'grequests==0.2.0',
         'easydict',
